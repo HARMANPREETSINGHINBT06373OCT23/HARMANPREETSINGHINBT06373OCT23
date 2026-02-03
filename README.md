@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=HARMANPREETSINGHINBT06373OCT23&label=Profile%20Views&color=0e75b6&style=flat)
 # 💫 About Me:
 ## 👋 Hi, I'm Harmanpreet Singh<br><br>🎓 I'm a Computer Science undergrad (UIET PUSSGRC, 2022–2026) passionate about building scalable full-stack web apps and exploring modern web frameworks.<br><br>💻 **My Role:** Full-Stack Developer in training — crafting backend logic, building responsive UIs, and integrating real-world APIs.  <br><br>⚙️ **Tech I Use:** React.js, Node.js, Express, MongoDB, MySQL, PHP, HTML/CSS, WordPress, JWT, REST APIs  <br><br>🧠 **Also Exploring:** WordPress development (rtCamp), wp-cli, plugin & theme systems, and core CMS concepts.  <br><br>🤖 **Bonus Zone:** I tinker with ML tools like TensorFlow, OpenCV, YOLOv8 — because I enjoy both systems and intelligence.<br>
 
